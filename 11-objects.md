@@ -1,0 +1,1 @@
+## Q11 - Explain how objects can be manipulated in JavaScript, using examples from the JavaScript programming language
